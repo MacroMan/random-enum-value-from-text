@@ -17,7 +17,7 @@ const getArrayIndexFromHash = (hash: number, array: string[]) =>
 /**
  * pseudo-random index selection from an enum, ensuring the same value is always selected for a given text
  */
-export const randomEnumValueFromText = (
+export default (
   text: string,
   enumData: Record<string | number, string>,
 ): string => {
