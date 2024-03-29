@@ -1,6 +1,6 @@
 {
   "name": "random-enum-value-from-text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pseudo-random index selection from an enum, ensuring the same value is always selected for a given text",
   "main": "dist/index.js",
   "type": "module",
