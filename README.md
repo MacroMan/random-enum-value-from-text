@@ -2,13 +2,17 @@
 Pseudo-random index selection from an enum, ensuring the same value is always selected for a given text
 
 ## Motivation
-This was made to support picking a random display colour for a person initials, but can be used for any purpose where a deterministic pseudo-random enum value is required
+This was made to support picking a random display colour from a persons initials, but can be used for any purpose where a deterministic pseudo-random enum value is required
 
 ## Installation
 `npm i random-enum-value-from-text`
+
 or
-`npm add random-enum-value-from-text`
+
+`pnpm add random-enum-value-from-text`
+
 or
+
 `yarn add random-enum-value-from-text`
 
 ## Usage
