@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { randomEnumValueFromText } from "./index";
+import randomEnumValueFromText from "./index";
 
 enum ETest {
   One = "one",
