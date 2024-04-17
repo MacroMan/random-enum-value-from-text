@@ -1,7 +1,11 @@
 {
   "name": "random-enum-value-from-text",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Pseudo-random index selection from an enum, ensuring the same value is always selected for a given text",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MacroMan/random-enum-value-from-text.git"
+  },
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
